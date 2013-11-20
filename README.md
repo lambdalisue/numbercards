@@ -10,7 +10,6 @@ Requirements
 
 -   [Python][]
 -   [reportlab][]
--   [matplotlib][]
 
 [Python]: http://www.python.org/
 [reportlab]: http://www.reportlab.com/software/opensource/
