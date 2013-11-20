@@ -1,0 +1,3 @@
+include README.md
+include res/Arimo-*.ttf
+include res/LICENSE.txt
